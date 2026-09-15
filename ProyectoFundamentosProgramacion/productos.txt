@@ -1,0 +1,10 @@
+PR001 ;  Correa  ; 79000.0
+PR002 ;  Zapatos  ; 93000.0
+PR003 ;  Chaqueta  ; 45000.0
+PR004 ;  Maleta  ; 47000.0
+PR005 ;  Reloj  ; 86000.0
+PR006 ;  Chaqueta  ; 46000.0
+PR007 ;  Reloj  ; 49000.0
+PR008 ;  Correa  ; 26000.0
+PR009 ;  Pantaloneta  ; 79000.0
+PR010 ;  Gorra  ; 57000.0

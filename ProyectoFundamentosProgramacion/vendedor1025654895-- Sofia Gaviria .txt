@@ -1,0 +1,15 @@
+ Sofia Gaviria CC;1025654895
+PR002; Vendio ;3
+PR003; Vendio ;4
+PR006; Vendio ;4
+PR008; Vendio ;2
+PR005; Vendio ;1
+PR004; Vendio ;2
+PR003; Vendio ;2
+PR008; Vendio ;3
+PR001; Vendio ;4
+PR005; Vendio ;5
+PR004; Vendio ;4
+PR005; Vendio ;2
+PR010; Vendio ;1
+PR002; Vendio ;5
